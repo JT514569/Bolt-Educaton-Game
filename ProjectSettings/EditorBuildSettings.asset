@@ -21,6 +21,12 @@ EditorBuildSettings:
     path: Assets/BoltKit_FirstPerson/Scenes/Level05.unity
     guid: ab5d0cd09a179e44a9777a09794f4835
   - enabled: 1
+    path: Assets/BoltKit_FirstPerson/Scenes/Level06.unity
+    guid: 5b234377b91b96b4dbed69b8d6b6097c
+  - enabled: 1
+    path: Assets/BoltKit_FirstPerson/Scenes/Ending.unity
+    guid: ef405bd5d650b184d9039d3763b8466e
+  - enabled: 1
     path: Assets/BoltKit_FirstPerson/Scenes/GUI.unity
     guid: 57f7fd076e583964d90770cdd9058020
   m_configObjects: {}

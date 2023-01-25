@@ -40,7 +40,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 0.75
+    value: 0.51
   color:
     overrideState: 1
     value: {r: 0.058873262, g: 0.13615392, b: 0.1981132, a: 1}
@@ -86,13 +86,13 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 5.78
+    value: 5
   threshold:
     overrideState: 1
     value: 1.03
   softKnee:
     overrideState: 1
-    value: 0.25
+    value: 0.246
   clamp:
     overrideState: 1
     value: 65472
@@ -133,13 +133,13 @@ MonoBehaviour:
     value: 1
   filtering:
     overrideState: 1
-    value: {x: 50, y: 95}
+    value: {x: 46.752815, y: 91.75279}
   minLuminance:
     overrideState: 1
-    value: 0
+    value: 0.51
   maxLuminance:
     overrideState: 1
-    value: 0
+    value: 3.84
   keyValue:
     overrideState: 1
     value: 1
@@ -1490,10 +1490,10 @@ MonoBehaviour:
     value: {x: 0.5, y: 0.5}
   intensity:
     overrideState: 1
-    value: 0.194
+    value: 0.095
   smoothness:
     overrideState: 1
-    value: 0.2
+    value: 0.268
   roundness:
     overrideState: 1
     value: 1
@@ -1525,7 +1525,7 @@ MonoBehaviour:
     value: 1
   shutterAngle:
     overrideState: 1
-    value: 270
+    value: 335
   sampleCount:
     overrideState: 1
     value: 10
